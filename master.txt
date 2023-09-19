@@ -1,3 +1,5 @@
 first git repo
 
 some new changes
+
+this is a start of new journey on gitlab
